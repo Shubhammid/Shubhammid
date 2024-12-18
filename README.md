@@ -1,18 +1,16 @@
-
-
 # <div align="center">I'm Shubham👋</div>  
   
 
-- #### I'm an educated Java Developer and Front-End Web Developer, with a passion for web development and design 👨‍💻. I'm passionate about nice layouts and cool features! Easy-to-read and manageable code is my bread and butter💻. I like React.js because programming in this framework is easy and fun😃. I love to learn new things and I am addicted to learning 🚀❤️  
+- ## I'm an educated Java Developer and Front-End Web Developer, with a passion for web development and design 👨‍💻. I'm passionate about nice layouts and cool features! Easy-to-read and manageable code is my bread and butter💻. I like React.js because programming in this framework is easy and fun😃. I love to learn new things and I am addicted to learning 🚀❤️  
   
 
-- #### 🔭 Check Out my Personal Portfolio : [Portfolio](https://shubhammidgule.netlify.app/)  
+- ## 🔭 Check Out my Personal Portfolio : [Portfolio](https://shubhammidgule.netlify.app/)  
   
 
-- ####  Feel free to contact me! 💬 You can do it via LinkedIn or via contact form on my portfolio.  
+- ##  Feel free to contact me! 💬 You can do it via LinkedIn or via contact form on my portfolio.  
   
 
-- #### 🌱Stay Curious , Keep Growing  
+- ## 🌱Stay Curious , Keep Growing  
   
 
 <br/>  
@@ -87,3 +85,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
