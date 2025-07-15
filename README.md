@@ -24,10 +24,14 @@
 <a href="https://sass-lang.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png"></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+<a href="https://www.npmjs.com/" target="_blank"><img style="margin:10px" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="NPM" /></a>
+<a href="https://bun.sh/" target="_blank"><img style="margin:10px" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png" alt="Bun" /></a>
 <a href="https://react.dev/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://vitejs.dev/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" height="50" /></a>
 <a href="https://ui.shadcn.com/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCN UI" height="50" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin:10px" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" /></a>
+<a href="https://expressjs.com/" target="_blank"><img style="margin:10px" height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express.js" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
