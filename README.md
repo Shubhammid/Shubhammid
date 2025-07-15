@@ -33,7 +33,28 @@
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a> 
+  
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png"></a> 
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noopener noreferrer"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png"></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer"> <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"></a> 
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png"></a> 
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png"></a> 
+ <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png"></a> 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+  
+ <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer"></a> 
 </div>  
 
 <br/>  
