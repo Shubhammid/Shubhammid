@@ -1,15 +1,24 @@
-# <div align="center">I'm Shubham👋</div>  
+# <div align="center">I'm Shubham👋</div> 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhammid&label=Profile%20views&color=0e75b6&style=flat" alt="shubhammid" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhammid" alt="shubhammid" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/shubhamdev_" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamdev_?logo=twitter&style=for-the-badge" alt="shubhamdev_" /></a> </p>
   
 
-- ## I'm an educated Java Developer and Front-End Web Developer, with a passion for web development and design 👨‍💻. I'm passionate about nice layouts and cool features! Easy-to-read and manageable code is my bread and butter💻. I like React.js because programming in this framework is easy and fun😃. I love to learn new things and I am addicted to learning 🚀❤️  
+- ### I am a Java Developer and Front‑End Web Developer with a strong passion for creating elegant, user‑friendly interfaces. I value clean, maintainable code and enjoy building modern layouts with thoughtful design and smooth functionality. Proficient in React.js, I find building with this framework both efficient and enjoyable. Always eager to learn and explore new technologies, I’m committed to continuous growth and innovation. 🚀  
   
 
-- ## 🔭 Check Out my Personal Portfolio : [Portfolio](https://shubham-midgule-portfolio.vercel.app/)
-- ##  Feel free to contact me! 💬 You can do it via LinkedIn or via contact form on my portfolio.  
-  
+- #### 🔭 Check Out my Personal Portfolio : [Portfolio](https://shubham-midgule-portfolio.vercel.app/)
+- #### 🌎 Feel free to contact me! 💬 <a href="https://twitter.com/shubhamdev_" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - @shubhamdev_" height="30" width="40" />
+  </a> <a href="https://linkedin.com/in/shubham-midgule" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Shubham Midgule" height="30" width="40" /></a>
+  <a href="https://instagram.com/___shubham_1901" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - ___shubham_1901" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/shubhammidgule/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - shubhammidgule" height="30" width="40" /></a>
+- #### 🌱Stay Curious , Keep Growing  
 
-- ## 🌱Stay Curious , Keep Growing  
-  
 
 <br/>  
 
@@ -43,46 +52,24 @@
 <a href="https://www.eclipse.org/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="Eclipse" height="50" /></a>
 </div>  
 
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/shubhammid" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/shubham-midgule" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<br/>   
   
 
 <br/>  
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammid&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=shubhammid&&style=flat-square" align="center" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhammid&show_icons=true&locale=en&layout=compact" alt="shubhammid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhammid&" alt="shubhammid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhammid&show_icons=true&locale=en" alt="shubhammid" /></p>
 </div>  
-  
 
 <br/>  
+
+
+  
+ 
 
 
 <br />
