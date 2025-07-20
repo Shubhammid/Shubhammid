@@ -50,6 +50,7 @@
 <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png" alt="WebStorm" height="50" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VS Code" height="50" /></a>
 <a href="https://www.eclipse.org/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="Eclipse" height="50" /></a>
+<a href="https://www.postman.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png"> </a>
 </div>  
 
 <br/>   
