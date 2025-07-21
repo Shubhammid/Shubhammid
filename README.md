@@ -13,7 +13,7 @@
 
 - #### 🔭 Check Out my Personal Portfolio : [Portfolio](https://shubham-midgule-portfolio.vercel.app/)
 - #### 🌎 Feel free to contact me! 💬 <a href="https://twitter.com/shubhamdev_" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://x.com/ShubhamDev_?t=BqGZC5nLVqyW-VlaVy1Xaw&s=09" alt="Twitter - @shubhamdev_" height="30" width="40" />
+   <a href="https://www.leetcode.com/shubhammidgule/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://x.com/ShubhamDev_?t=BqGZC5nLVqyW-VlaVy1Xaw&s=09" alt="Twitter - @shubhamdev_" height="30" width="40" /></a>
   </a> <a href="https://linkedin.com/in/shubham-midgule" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Shubham Midgule" height="30" width="40" /></a>
   <a href="https://instagram.com/___shubham_1901" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - ___shubham_1901" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/shubhammidgule/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - shubhammidgule" height="30" width="40" /></a>
