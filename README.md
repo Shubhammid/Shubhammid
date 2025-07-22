@@ -63,8 +63,7 @@
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhammid&show_icons=true&locale=en&layout=compact" alt="shubhammid" /></p>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Shubhammidgule?theme=dark&font=Source%20Code%20Pro&ext=activity)%5D(https://leetcode.com/Shubhammidgule/)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhammid&show_icons=true&locale=en" alt="shubhammid" /></p>
+<p>[![Leetcode Stats](https://leetcard.jacoblin.cool/Shubhammidgule?theme=light&font=Source%20Code%20Pro&ext=none)%5D(https://leetcode.com/Shubhammidgule/)</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhammid&" alt="shubhammid" /></p>
 </div>  
