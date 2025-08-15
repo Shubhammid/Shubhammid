@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/shubhamdev_" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamdev_?logo=twitter&style=for-the-badge" alt="shubhamdev_" /></a> </p>
   
 
-- ### I am a Java Developer and Front‑End Web Developer with a strong passion for creating elegant, user‑friendly interfaces. I value clean, maintainable code and enjoy building modern layouts with thoughtful design and smooth functionality. Proficient in React.js, I find building with this framework both efficient and enjoyable. Always eager to learn and explore new technologies, I’m committed to continuous growth and innovation. 🚀  
+- ### Java & Front-End Developer passionate about building elegant, user-friendly interfaces. Skilled in writing clean, maintainable code and creating modern layouts with smooth functionality. Proficient in React.js, always eager to learn and explore new technologies for continuous growth. 🚀  
   
 
 - #### 🔭 Check Out my Personal Portfolio : [Portfolio](https://shubham-midgule-portfolio.vercel.app/)
@@ -19,11 +19,7 @@
   <a href="https://www.leetcode.com/shubhammidgule/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - shubhammidgule" height="30" width="40" /></a>
 - #### 🌱Stay Curious , Keep Growing  
 
-
 <br/>  
-
-
-
 
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50"/></a>
@@ -55,13 +51,11 @@
 
 <br/>   
   
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhammid&show_icons=true&locale=en&layout=compact" alt="shubhammid" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhammid&show_icons=true&locale=en&layout=compact" alt="shubhammid" /></p>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Shubhammidgule?theme=light&font=Source%20Code%20Pro&ext=none)](https://leetcode.com/u/Shubhammidgule/)
 
@@ -69,11 +63,6 @@
 </div>  
 
 <br/>  
-
-
-  
- 
-
 
 <br />
 
