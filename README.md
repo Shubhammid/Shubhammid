@@ -1,5 +1,8 @@
 # <div align="center">I'm Shubham👋</div> 
 
+<p align="center"><img src="./ShubGit.png" alt="Shubham Midgule Banner" width="100%" />
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhammid&label=Profile%20views&color=0e75b6&style=flat" alt="shubhammid" /> </p>
 
