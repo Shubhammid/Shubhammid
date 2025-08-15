@@ -1,21 +1,15 @@
-<p align="center"><img src="./ShubGit.png" alt="Shubham Midgule Banner" width="100%" />
+<p align="center"><img src="./Shubham GitHub Profile Banner.png" alt="Shubham Midgule Banner" width="100%" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhammid&label=Profile%20views&color=0e75b6&style=flat" alt="shubhammid" /> </p>
 
 <p align="left"> <a href="https://github.com/Shubhammid/"><img src="https://github-profile-trophy.vercel.app/?username=shubhammid&theme=chalk" alt="shubhammid" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shubhamdev_" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamdev_?logo=twitter&style=for-the-badge" alt="shubhamdev_" /></a> </p>
-  
-
-- ### Java & Front-End Developer passionate about building elegant, user-friendly interfaces. Skilled in writing clean, maintainable code and creating modern layouts with smooth functionality. Proficient in React.js, always eager to learn and explore new technologies for continuous growth. 🚀  
-  
+ 
 
 - #### 🔭 Check Out my Personal Portfolio : [Portfolio](https://shubham-midgule-portfolio.vercel.app/)
 - #### 🌎 Feel free to contact me! 💬 <a href="https://twitter.com/shubhamdev_" target="_blank" rel="noopener noreferrer">
    <a href="https://twitter.com/shubhamdev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamdev_" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/shubham-midgule" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Shubham Midgule" height="30" width="40" /></a>
-  <a href="https://instagram.com/___shubham_1901" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - ___shubham_1901" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/shubhammidgule/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - shubhammidgule" height="30" width="40" /></a>
 - #### 🌱Stay Curious , Keep Growing  
 
