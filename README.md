@@ -7,7 +7,7 @@
  
 
 - #### 🔭 Check Out Portfolio : [Portfolio](https://shubhammidgule.vercel.app/)
-- #### 🌎 Feel free to contact me! <a href="https://twitter.com/shubhamdev_" target="_blank" rel="noopener noreferrer">
+- #### 🌎 Feel free to contact me <a href="https://twitter.com/shubhamdev_" target="_blank" rel="noopener noreferrer">
    <a href="https://twitter.com/shubhamdev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamdev_" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/shubham-midgule" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Shubham Midgule" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/shubhammidgule/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - shubhammidgule" height="30" width="40" /></a> 
