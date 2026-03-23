@@ -53,9 +53,6 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Shubhammidgule?theme=light&font=Source%20Code%20Pro&ext=none)](https://leetcode.com/u/Shubhammidgule/)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhammid&" alt="shubhammid" /></p>
-
-![Snake animation](https://github.com/Shubhammid/Shubhammid/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 <br/>
