@@ -4,15 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhammid&label=Profile%20views&color=0e75b6&style=flat" alt="shubhammid" /> </p>
 
 <p align="left"> <a href="https://github.com/Shubhammid/"><img src="https://github-profile-trophy.vercel.app/?username=shubhammid&theme=chalk" alt="shubhammid" /></a> </p>
- 
 
 - #### 🔭 Check Out My Portfolio : [Portfolio](https://shubhammidgule.vercel.app/)
 - #### 🌎 Feel free to contact me <a href="https://twitter.com/shubhamdev_" target="_blank" rel="noopener noreferrer">
-   <a href="https://twitter.com/shubhamdev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamdev_" height="30" width="40" /></a>
+  <a href="https://twitter.com/shubhamdev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamdev_" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/shubham-midgule" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Shubham Midgule" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/shubhammidgule/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - shubhammidgule" height="30" width="40" /></a> 
+  <a href="https://www.leetcode.com/shubhammidgule/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - shubhammidgule" height="30" width="40" /></a>
 
-<br/>  
+<br/>
 
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50"/></a>
@@ -40,23 +39,27 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VS Code" height="50" /></a>
 <a href="https://www.eclipse.org/" target="_blank"><img style="margin:10px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="Eclipse" height="50" /></a>
 <a href="https://www.postman.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png"> </a>
-</div>  
+</div>
 
 <br/>   
   
-<br/>  
+<br/>
 
-## Github Stats  
+## Github Stats
+
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhammid&show_icons=true&locale=en&layout=compact" alt="shubhammid" /></p>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Shubhammidgule?theme=light&font=Source%20Code%20Pro&ext=none)](https://leetcode.com/u/Shubhammidgule/)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhammid&" alt="shubhammid" /></p>
-</div>  
 
-<br/>  
+![Snake animation](https://github.com/Shubhammid/Shubhammid/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<br/>
 
 <br />
 
-----
+---
