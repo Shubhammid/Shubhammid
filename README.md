@@ -142,20 +142,24 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🏗️ Featured Projects
+<div align="center">
+  <h2>🏗️ Featured Projects</h2>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Job Insight Assistance</h3>
-      <div align="center">
-        <a href="https://github.com/Shubhammid/jobinsightassistanct" target="_blank"><img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github"></a>
-        <a href="https://jobinsightassistanct.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/DEMO-success?style=for-the-badge&logo=youtube"></a>
-      </div>
-      </p>
-    </td>
-  </tr>
-</table>
+  <table align="center">
+    <tr>
+      <td width="100%">
+        <h3 align="center">Job Insight Assistance</h3>
+        <div align="center">
+          <a href="https://github.com/Shubhammid/jobinsightassistanct" target="_blank"><img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github"></a>
+          <a href="https://jobinsightassistanct.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/DEMO-success?style=for-the-badge&logo=youtube"></a>
+        </div>
+        <p align="center">
+          <strong>A specialized tool for managing job applications and gathering strategic career insights.</strong>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
