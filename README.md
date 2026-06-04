@@ -117,7 +117,7 @@
     <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
   </p>
 
-  <h4>🛢️ Databases</h4>
+  <h4>🛢️ Database</h4>
   <p align="center">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
