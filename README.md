@@ -31,7 +31,7 @@
     <td width="58%">
       ## 🚀 Code Architect
       
-      I'm a Full Stack Developer and Software Engineer with an eye for crafting robust and scalable web application. From architecting Java backends to sculpting pixel-perfect React frontend, I thrive on building tools that solve real-world problems.
+      I'm a Full Stack Developer and Software Engineer with an eye for crafting robust and scalable web application. From architecting Java backends to sculpting pixel-perfect React frontend, I thrive on building tools that solve real-world problem.
 
       ### 🔭 My Portfolio
       Explore my latest work and case studie: [**Shubhammidgule.vercel.app**](https://Shubhammidgule.vercel.app/)
